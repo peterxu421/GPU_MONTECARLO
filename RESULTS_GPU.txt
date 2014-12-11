@@ -1,0 +1,4 @@
+Price of European Call option is:
+6.186353, with 7094618 number of iterations. 
+Price of Asian Call option is:
+2.171992, with 1341230 number of iterations. 
